@@ -115,6 +115,7 @@ public class Exploration
             
         }
         Console.WriteLine("Vous croisez un orc polygame.");
+        EventFight(1);
         donjonFini = true;
     }
 
