@@ -1,4 +1,4 @@
-#Bonjour/Bonsoir,
+# Bonjour/Bonsoir,
 
 Voici notre tronc commun, confectionné par nos soins avec à la programmation MARCHAL Coline, PEZZONI Valentin, REY Maxime et SABIAUX Corentin. 
 Afin de manipuler au mieux notre .exe :
